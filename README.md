@@ -18,3 +18,8 @@
 
 # Symbol Type
 Symbol type is a type where each variable have unique value even if the value is same.
+
+# Operators
+Operators are used to handle variables
+-> arithmetic, comparision, assignment, logical, conditional(or ternary).
+-> '=' for assisgning, '==' for comapring irrespective of data type, '===' for comparing strictly..
