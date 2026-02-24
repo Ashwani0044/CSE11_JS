@@ -15,3 +15,5 @@
  ->Primitive type: Number, String, Boolean, null, undefined.
 
 -> Reference type: collection of name and values -- Array, Function, Object.
+
+# Symbol Type
