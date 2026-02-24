@@ -17,3 +17,4 @@
 -> Reference type: collection of name and values -- Array, Function, Object.
 
 # Symbol Type
+Symbol type is a type where each variable have unique value even if the value is same.
