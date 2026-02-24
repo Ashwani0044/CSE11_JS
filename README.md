@@ -23,3 +23,7 @@ Symbol type is a type where each variable have unique value even if the value is
 Operators are used to handle variables
 -> arithmetic, comparision, assignment, logical, conditional(or ternary).
 -> '=' for assisgning, '==' for comapring irrespective of data type, '===' for comparing strictly..
+
+# Loops
+Loops is a control flow statements used to repeatedly execute a block of code until specified condition is met.
+Types: For, while..

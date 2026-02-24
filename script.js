@@ -49,6 +49,6 @@ console.log(person.age);
 console.log(person.city);
 
 //comparison
-let a=7, b='7';
-console.log(a==b);//true because it converts the string to number before comparison
-console.log(a===b);//false because it does not convert the string to number before comparison
+let g=7, b='7';
+console.log(g==b);//true because it converts the string to number before comparison
+console.log(g===b);//false because it does not convert the string to number before comparison
