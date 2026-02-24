@@ -1,4 +1,4 @@
-# CSE11_JS
+# NOTES
 
  undefined->not initialized.
  null-> is a value used to remove garbage value.
@@ -12,4 +12,6 @@
  -> u can't redeclare a variable..
 
  # DATA TYPES
- ->Primitive type: Number, String, Boolean, null, undefined..
+ ->Primitive type: Number, String, Boolean, null, undefined.
+
+-> Reference type: collection of name and values -- Array, Function, Object.
