@@ -40,3 +40,12 @@ here we are having three types of for loop
 
 # where not to use document.write
  in terminal or outside the browser cuz it don't support DOM model..
+
+ # Conditional statements
+
+ if, if-else, if-else-if ladder..
+ or we also have nested statements.
+
+ Then we have switch case:
+ can use instead of multiple if-else-if statements..
+ default case will only execute when none of the case is true irrespective of its position in the switch case.
