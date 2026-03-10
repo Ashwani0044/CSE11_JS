@@ -24,3 +24,6 @@ let greet = () => {
 function add(a, b) {
     return a + b;
 }
+
+//5. arrow function with parameters
+let addNum = (x,y)=>{ return x+y; };
