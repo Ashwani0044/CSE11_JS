@@ -36,5 +36,23 @@ s.style.fontSize= "30px";
 
 const d= document.querySelectorAll("p");
 for(x in d) {
-    d[x].style.fontSize= "40px";
+    d[x].style.fontSize= "30px";
+}
+
+const li = document.querySelectorAll("ul li");
+for(x in li) {
+    li[x].style.color= "orange";
+}
+
+
+// getAttribute() method is used to get the value of an attribute of an element. It takes the name of the attribute as a parameter and returns the value of that attribute. If the attribute does not exist, it returns null.
+const element= document.getElementById("myH1");
+let text= element.getAttribute("class");
+document.getElementById("demo").innerHTML= text;
+
+//setAttribute() method is used to set the value of an attribute of an element. It takes the name of the attribute and the value to be set as parameters. If the attribute does not exist, it will be created.
+
+function myFunction() {
+    document.getElementById("myH1").setAttribute("class", "democlass");
+    alert("Class attribute has been set to 'democlass'");
 }
