@@ -26,4 +26,4 @@ function add(a, b) {
 }
 
 //5. arrow function with parameters
-let addNum = (x,y)=>{ return x+y; };
+let addNum = (x,y)=>{ alert(x+y); };

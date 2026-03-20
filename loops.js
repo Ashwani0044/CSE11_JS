@@ -24,6 +24,12 @@ for(let value of arr) {
     console.log(value);
 }
 
+//4. forEach loop
+const arr2 = [10,20,30,40,50];
+arr2.forEach(function(value) {
+    console.log(value);
+});
+
 
 // while loop
 let i=0;
